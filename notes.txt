@@ -1,0 +1,1 @@
+ ;(mapcar #'ql:quickload '(cl-markdown cl-ppcre str copy-directory))
